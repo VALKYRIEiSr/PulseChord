@@ -1,0 +1,43 @@
+================================================================================
+           PULSECHORD PROJECT: OPEN SOURCE LICENSING & DECLARATION
+================================================================================
+Project: PulseChord Wearable Haptic/Vibrational Audio System
+Author: Hariz Zoran Farooq
+Date: December 2025
+
+1. HARDWARE LICENSE
+--------------------------------------------------------------------------------
+The hardware design files (including Eagle .SCH and .BRD files, Gerber 
+production files, and 3D mechanical .STL/.FCStd files) are licensed under the 
+CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0). 
+
+Official License Text: https://spdx.org/licenses/CERN-OHL-P-2.0.html
+
+2. DOCUMENTATION & RESEARCH LICENSE (GitHub & SSRN)
+--------------------------------------------------------------------------------
+The project documentation, including the Bill of Materials (BOM), assembly 
+guides, README files, and the technical research PDF (currently hosted on SSRN), 
+is licensed under the Creative Commons Attribution-ShareAlike 4.0 
+International License (CC-BY-SA-4.0).
+
+As the copyright owner, I am exercising my right to apply this Creative Commons 
+license to the materials hosted on SSRN under their "Non-Exclusive" terms.
+
+Official License Text: https://creativecommons.org/licenses/by-sa/4.0/
+
+3. COPYRIGHT NOTICE
+--------------------------------------------------------------------------------
+Copyright (c) 2025 Hariz Zoran Farooq
+
+4. PARENTAL CONSENT & ATTESTATION
+--------------------------------------------------------------------------------
+I, Muhammad Omar Farooq, hereby attest to the authenticity and independent 
+development of the PulseChord project by my son. I support the Open Source 
+Hardware Association (OSHWA) certification of this hardware and provide 
+parental consent for the publication of these technical materials and 
+research on GitHub and SSRN.
+
+Signed: 
+Muhammad Omar Farooq
+Date: December 2025
+================================================================================
