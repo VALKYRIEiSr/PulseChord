@@ -32,7 +32,7 @@ The academic theory and signal-conditioning research behind this project can be 
 ## Assembly Quick-Start
 1. **PCB:** Fabricate the Gerber files using a standard 2-layer FR4 process.
 2. **Printing:** Print 6x `Holder Design-Body.stl` in PLA (20% infill).
-3. **Mechanical Assembly:** * First, mount the vibrational actuators into the 3D-printed holders using M2 x 30mm screws and nuts. 
+3. **Mechanical Assembly:** * First, mount the speakers into the 3D-printed holders using M2 x 30mm screws and nuts, as detailed in **Speaker.png**. 
     * Once secured, thread the 50mm nylon strap through the integrated slots in the holders.
 4. **Wiring:** Wire the speakers in series pairs as detailed in **Schematic 2.png**. Connect each 8Ω load to the amplifier output channels.
 
