@@ -51,4 +51,4 @@ I, **Muhammad Omar Farooq**, hereby attest to the authenticity and independent d
 ---
 **Developer:** Hariz Zoran Farooq  
 **Contact:** harizzoranfarooq@gmail.com  
-*Submitted for certified with the Open Source Hardware Association.*
+*certified with the Open Source Hardware Association | PK000001.*
