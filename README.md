@@ -1,6 +1,9 @@
 # PulseChord: Wearable Haptic/Vibrational Audio System
 **OSHWA Certified Open Source Hardware | PK000001**
 
+<div align="center"> <img src="certification-mark-PK000001-stacked.png" alt="OSHWA Certification Mark" width="150">
+<strong>OSHWA Certified Open Source Hardware | UID: PK000001</strong> </div>
+
 ![PulseChord Logo](PC%20LOGO.png)
 
 ## Project Overview
@@ -51,4 +54,4 @@ I, **Muhammad Omar Farooq**, hereby attest to the authenticity and independent d
 ---
 **Developer:** Hariz Zoran Farooq  
 **Contact:** harizzoranfarooq@gmail.com  
-*certified with the Open Source Hardware Association | PK000001.*
+*Certified with the Open Source Hardware Association | PK000001.*
