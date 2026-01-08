@@ -2,7 +2,7 @@
 **OSHWA Certified Open Source Hardware | PK000001**
 
 ![OSHWA Certification](certification-mark-PK000001-stacked.png)
-![PulseChord Logo](PC%20LOGO.png)
+![PulseChord Logo](PC%20LOGO-transparent.png)
 
 ## Project Overview
 PulseChord is a purely analog haptic feedback belt that converts live audio into tactile vibrations through voice coil actuators positioned around the torso/waist. Designed to create an immersive sensory experience, it delivers real-time feedback corresponding to musical rhythm and dynamics.
