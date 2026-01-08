@@ -23,8 +23,8 @@ The academic theory and signal-conditioning research behind this project can be 
 * **Fasteners:** M2 x 30mm Stainless Steel hardware
 
 ## Repository Structure
-* `/Hardware`: Eagle Schematic (`.sch`) and Board (`.brd`) files
-* `/Mechanical`: 3D source files (`.stl`, `.FCStd`) for speaker holders
+* `Hardware`: Eagle Schematic (`.sch`) and Board (`.brd`) files
+* `Mechanical`: 3D source files (`.stl`, `.FCStd`) for speaker holders
 * `BOM.txt`: Formatted Bill of Materials with manufacturer specifications
 * `LICENSE.txt`: Hardware (CERN-OHL-P-2.0) and Documentation (CC-BY-SA-4.0) licenses
 * `GerberFiles.zip`: Production-ready files for PCB fabrication
