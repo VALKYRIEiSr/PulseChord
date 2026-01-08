@@ -1,5 +1,5 @@
 # PulseChord: Wearable Haptic/Vibrational Audio System
-**OSHWA Certified Open Source Hardware | [UID Pending]**
+**OSHWA Certified Open Source Hardware | PK000001**
 
 ![PulseChord Logo](PC%20LOGO.png)
 
