@@ -17,7 +17,7 @@ C8, C29         0.0047u     C0603           Ceramic Capacitor
 C19             0.015u      C0603           Ceramic Capacitor
 C22, C23        0.1u        C0603           Ceramic Capacitor (Bypass)
 C32, C33        0.1u        C0603           Ceramic Capacitor (Bypass)
-IC1-IC3         TL074D      SO14            Low-Noise Quad Op-Amp
+IC1-IC3         TL074C      SO14            Low-Noise Quad Op-Amp
 J1              PJ324M      PJ324M          3.5mm Stereo Audio Jack
 R1, R9, R17     220k        R0603           Resistor
 R26             220k        R0603           Resistor
@@ -55,4 +55,5 @@ Fastener: Screw         M2 x 30mm               24      Socket Head Cap
 Fastener: Nut           M2 Hex Nut              24      Standard M2 Metric
 Main Strap              Nylon Webbing (50mm w)  122cm   Flat black (approx 4ft)
 Strap Fastener          Hook & Loop (Velcro)    2 sets  Sewn to strap ends
+
 --------------------------------------------------------------------------------
