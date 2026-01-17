@@ -4,7 +4,7 @@
 Project Status: OSHWA-Compliant Documentation
 License:        CERN-OHL-P (Hardware), CC-BY-SA (Documentation)
 
-1. PCB COMPONENTS
+1. SURFACE MOUNT DEVICES (PCB COMPONENTS)
 --------------------------------------------------------------------------------
 PART            VALUE       PACKAGE         DESCRIPTION
 --------------------------------------------------------------------------------
@@ -37,12 +37,12 @@ R30             22k         R0603           Resistor
 R31             9.1k        R0603           Resistor
 R32, R33        680k        R0603           Resistor
 R34             2.4k        R0603           Resistor
-PCB             x1          PulseChord.sch  Printed Circuit Board
 
 2. AUDIO & POWER ELECTRONICS
 --------------------------------------------------------------------------------
 ITEM                    SPECIFICATION           QTY     NOTES
 --------------------------------------------------------------------------------
+Printed Circuit Board   Double Layer            1       PulseChord.sch
 Stereo Amplifier        TPA3110 (XHA232)        2       30W + 30W Class D
 Full Range Speaker      4 Ohm, 5W               6       40mm Driver
 LiPo Battery            2200mAh, 11.1V          1       3-Cell (3S) Pack
@@ -58,5 +58,6 @@ Main Strap              Nylon Webbing (50mm w)  122cm   Flat black (approx 4ft)
 Strap Fastener          Hook & Loop (Velcro)    2 sets  Sewn to strap ends
 
 --------------------------------------------------------------------------------
+
 
 
