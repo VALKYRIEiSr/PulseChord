@@ -55,9 +55,11 @@ Speaker Holder          3D Printed (PLA)        6       Holder Design-Body.stl
 Fastener: Screw         M2 x 30mm               24      Socket Head Cap
 Fastener: Nut           M2 Hex Nut              24      Standard M2 Metric
 Main Strap              Nylon Webbing (50mm w)  122cm   Flat black (approx 4ft)
-Strap Fastener          Hook & Loop (Velcro)    2 sets  Sewn to strap ends
+Strap Fastener          Loop (Velcro)           20cm    Sewn to strap end
+Strap Fastener          Hook (Velcro)           5cm     Sewn to strap end
 
 --------------------------------------------------------------------------------
+
 
 
 
