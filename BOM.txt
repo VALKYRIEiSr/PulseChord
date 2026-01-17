@@ -4,7 +4,7 @@
 Project Status: OSHWA-Compliant Documentation
 License:        CERN-OHL-P (Hardware), CC-BY-SA (Documentation)
 
-1. SURFACE MOUNT DEVICES (PCB COMPONENTS)
+1. PCB COMPONENTS
 --------------------------------------------------------------------------------
 PART            VALUE       PACKAGE         DESCRIPTION
 --------------------------------------------------------------------------------
@@ -37,6 +37,7 @@ R30             22k         R0603           Resistor
 R31             9.1k        R0603           Resistor
 R32, R33        680k        R0603           Resistor
 R34             2.4k        R0603           Resistor
+PCB                                         'PulseChord.sch'
 
 2. AUDIO & POWER ELECTRONICS
 --------------------------------------------------------------------------------
@@ -57,3 +58,4 @@ Main Strap              Nylon Webbing (50mm w)  122cm   Flat black (approx 4ft)
 Strap Fastener          Hook & Loop (Velcro)    2 sets  Sewn to strap ends
 
 --------------------------------------------------------------------------------
+
