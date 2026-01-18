@@ -27,6 +27,7 @@ The academic theory and signal-conditioning research behind this project can be 
 * `Hardware`: Eagle Schematic (`.sch`) and Board (`.brd`) files
 * `Mechanical`: 3D source files (`.stl`, `.FCStd`) for speaker holders
 * `BOM.txt`: Formatted Bill of Materials with manufacturer specifications
+* `BOM.xlxs`: Formatted Bill of Materials with costs
 * `LICENSE.txt`: Hardware (CERN-OHL-P-2.0) and Documentation (CC-BY-SA-4.0) licenses
 * `GerberFiles.zip`: Production-ready files for PCB fabrication
 
@@ -35,6 +36,7 @@ The academic theory and signal-conditioning research behind this project can be 
 2. **Printing:** Print 6x `Holder Design-Body.stl` in PLA (20% infill).
 3. **Mechanical Assembly:** First, mount the speakers into the 3D-printed holders using M2 x 30mm screws and nuts, as detailed in **Speaker.png**. 
     * Once secured, thread the 50mm nylon strap through the integrated slots in the holders.
+    * Finally, glue, staple, or stitch the velcro hook to one end and the velco loop to the other.
 4. **Wiring:** Wire the speakers in series pairs as detailed in **Schematic 2.png**. Connect each 8Ω load to the amplifier output channels.
 
 ## Licensing
