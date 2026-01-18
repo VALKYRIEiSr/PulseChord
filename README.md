@@ -11,7 +11,7 @@ This project bridges the gap between digital audio and physical sensation, utili
 
 ## Technical Research
 The academic theory and signal-conditioning research behind this project can be found on SSRN:
-* **SSRN Research Paper:** [PulseChord: Wearable Haptic Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5532803)
+* **SSRN Research Paper:** [PulseChord: Wearable Haptic Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5532803) (Please refer to for more details)
 
 ## Technical Specifications
 * **Architecture:** Purely Analog Signal Processing (No Software/Microcontroller)
