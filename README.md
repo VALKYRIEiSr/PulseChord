@@ -44,14 +44,6 @@ The academic theory and signal-conditioning research behind this project can be 
 * **Documentation:** [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
-
-### Parental Consent & Attestation
-I, **Muhammad Omar Farooq**, hereby attest to the authenticity and independent development of the PulseChord project by my son. I support the Open Source Hardware Association (OSHWA) certification of this hardware and provide parental consent for the publication of these technical materials and research on GitHub and SSRN.
-
-**Signed:** Muhammad Omar Farooq  
-**Date:** December 2025
-
----
 **Developer:** Hariz Zoran Farooq  
 **Contact:** harizzoranfarooq@gmail.com  
 *Certified with the Open Source Hardware Association | PK000001.*
