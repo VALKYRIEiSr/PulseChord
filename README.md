@@ -1,6 +1,5 @@
 # PulseChord: Wearable Haptic/Vibrational Audio System
 **OSHWA Certified Open Source Hardware | PK000001**
-
 ![OSHWA Certification](certification-mark-PK000001-stacked.png)
 ![PulseChord Logo](PC%20LOGO.png)
 
@@ -8,6 +7,11 @@
 PulseChord is a purely analog haptic feedback belt that converts live audio into tactile vibrations through voice coil actuators positioned around the torso/waist. Designed to create an immersive sensory experience, it delivers real-time feedback corresponding to musical rhythm and dynamics.
 
 This project bridges the gap between digital audio and physical sensation, utilizing an industrial manufacturing substrate to create an accessible, wearable haptic interface.
+
+## Press & Recognition
+PulseChord was featured as Pakistan's first OSHWA-certified project in the January 2026 Open Source Hardware Certification roundup:
+* **Make: Magazine** — [Open Source Hardware Certifications for January 2026](https://makezine.com/article/technology/open-source/open-source-hardware-certifications-for-january-2026/)
+* **Hackster.io** — [January 2026 Open Source Hardware Certification Roundup](https://www.hackster.io/news/january-2026-open-source-hardware-certification-roundup-2705cc24ead9)
 
 ## Technical Research
 The academic theory and signal-conditioning research behind this project can be found on SSRN:
@@ -34,7 +38,7 @@ The academic theory and signal-conditioning research behind this project can be 
 ## Assembly Quick-Start
 1. **PCB:** Fabricate the Gerber files using a standard 2-layer FR4 process.
 2. **Printing:** Print 6x `Holder Design-Body.stl` in PLA (20% infill).
-3. **Mechanical Assembly:** First, mount the speakers into the 3D-printed holders using M2 x 30mm screws and nuts, as detailed in **Speaker.png**. 
+3. **Mechanical Assembly:** First, mount the speakers into the 3D-printed holders using M2 x 30mm screws and nuts, as detailed in **Speaker.png**.
     * Once secured, thread the 50mm nylon strap through the integrated slots in the holders.
     * Finally, glue, staple, or stitch the velcro hook to one end and the velco loop to the other.
 4. **Wiring:** Wire the speakers in series pairs as detailed in **Schematic 2.png**. Connect each 8Ω load to the amplifier output channels.
@@ -44,6 +48,6 @@ The academic theory and signal-conditioning research behind this project can be 
 * **Documentation:** [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
-**Developer:** Hariz Zoran Farooq  
-**Contact:** harizzoranfarooq@gmail.com  
+**Developer:** Hariz Zoran Farooq
+**Contact:** harizzoranfarooq@gmail.com
 *Certified with the Open Source Hardware Association | PK000001.*
